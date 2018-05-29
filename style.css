@@ -1,0 +1,50 @@
+.giphBtn {
+    background-color: #008cba;
+    border: none;
+    padding: 10px 45px;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    color: white;
+    margin: 5px;
+    box-shadow: 0 5px 10px rgba(104, 104, 104, 0.8);
+}
+
+.giphBtn:hover {
+    background-color: darkblue;
+}
+
+#addBtn {
+    background-color: darkgray;
+    padding: 5px 30px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    border: none;
+    box-shadow: 0 5px 10px rgba(104, 104, 104, 0.8);
+}
+
+#addBtn:hover {
+    background-color: rgb(39, 38, 38);
+}
+
+#animal{
+   height: 20px;
+   width: 200px;
+   background-color: lightgray;
+}
+
+label {
+    font-size: 18px;
+
+}
+
+#newAnimal {
+    margin: 10px;
+}
+
+#myDisplay div {
+    display: inline-block;
+    margin: 10px;
+
+}
