@@ -48,3 +48,23 @@ label {
     margin: 10px;
 
 }
+a {
+    color: green;
+}
+a:hover {
+    color: orange;
+}
+
+p {
+    margin-right: 20px;
+} 
+i {
+    margin-left: 10px;
+}
+
+.fa-heart {
+    color: red;
+}
+.fa-heart:hover {
+    color: darkred;
+}
